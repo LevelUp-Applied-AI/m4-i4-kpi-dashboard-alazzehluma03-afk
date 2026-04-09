@@ -1,0 +1,9 @@
+{
+  "thresholds": {
+    "total_revenue": 10000,
+    "mom_growth": 5.0,
+    "aov": 40.0,
+    "total_orders": 200,
+    "unique_customers": 50
+  }
+}
